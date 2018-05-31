@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RadioShowsListing</string>
+    <string name="base_url">https://localhost/</string>
+    <string name="unexpected_error_title">Service Not Found</string>
+    <string name="unexpected_error_body">An error occurred while connecting to Api</string>
+    <string name="ok">OK</string>
+</resources>
